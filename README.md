@@ -2,7 +2,7 @@
 Team Funguy final project for the 2021 NASA Space Apps Challenge Hackathon
 
 ## Exploring the solution:
-* Our main solution is the "**Methods**", "**Introduction**", and "**Abstract**" documents, alongside all files in the **Build** directory.
+* Our main solution is the "**Methods**", "**Introduction**", "**Improvements**", and "**Abstract**" documents, alongside all files in the **Build** directory.
 * A CAD model was also created, with pictures in the "**CAD**" folder.
 * The "**Diagrams**"" folder contains diagrams to show how our system build will work.
 * Figures and references can be found in the respective "**Figures**" and "**References**" directories.
